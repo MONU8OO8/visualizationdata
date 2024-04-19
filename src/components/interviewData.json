@@ -1,0 +1,1322 @@
+[
+    {
+      "candidate_name": "John Doe",
+      "interview_question": "What is your greatest strength?",
+      "candidate_response": "My greatest strength is my ability to adapt to new situations and learn quickly.",
+      "ai_generated_score": 85,
+      "other_metadata": {
+        "interview_round": 1,
+        "interviewer": "Jane Smith",
+        "interview_date": "2024-04-15"
+      }
+    },
+    {
+      "candidate_name": "Alice Johnson",
+      "interview_question": "Can you describe a challenging situation you faced at work?",
+      "candidate_response": "One challenging situation I faced was when our project deadline was moved up unexpectedly...",
+      "ai_generated_score": 72,
+      "other_metadata": {
+        "interview_round": 1,
+        "interviewer": "Mark Anderson",
+        "interview_date": "2024-04-16"
+      }
+    },
+    {
+      "candidate_name": "Emily Brown",
+      "interview_question": "Where do you see yourself in five years?",
+      "candidate_response": "In five years, I envision myself in a leadership role within the company, leveraging my skills...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 1,
+        "interviewer": "David Johnson",
+        "interview_date": "2024-04-17"
+      }
+    },
+    {
+      "candidate_name": "Michael Smith",
+      "interview_question": "What motivates you?",
+      "candidate_response": "I am motivated by challenging projects that allow me to apply my skills and contribute to meaningful...",
+      "ai_generated_score": 78,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Sarah Adams",
+        "interview_date": "2024-04-18"
+      }
+    },
+    {
+      "candidate_name": "Emma Wilson",
+      "interview_question": "Describe a time when you had to work under pressure.",
+      "candidate_response": "One instance where I had to work under pressure was during our company's annual audit...",
+      "ai_generated_score": 82,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Jason Carter",
+        "interview_date": "2024-04-19"
+      }
+    },
+    {
+      "candidate_name": "James Miller",
+      "interview_question": "How do you handle conflicts in the workplace?",
+      "candidate_response": "I believe in addressing conflicts directly and calmly, seeking to understand the other party's perspective...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Karen White",
+        "interview_date": "2024-04-20"
+      }
+    },
+    {
+      "candidate_name": "Olivia Davis",
+      "interview_question": "What is your approach to problem-solving?",
+      "candidate_response": "My approach to problem-solving involves breaking down the problem into smaller parts, analyzing each...",
+      "ai_generated_score": 95,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Brian Green",
+        "interview_date": "2024-04-21"
+      }
+    },
+    {
+      "candidate_name": "William Brown",
+      "interview_question": "Why do you want to work for our company?",
+      "candidate_response": "I am impressed by your company's innovative approach and commitment to excellence. I believe my skills...",
+      "ai_generated_score": 80,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Jessica Lee",
+        "interview_date": "2024-04-22"
+      }
+    },
+    {
+      "candidate_name": "Sophia Taylor",
+      "interview_question": "Describe a project you worked on that you are particularly proud of.",
+      "candidate_response": "One project I'm particularly proud of is when I led a team to develop a mobile application...",
+      "ai_generated_score": 92,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "Andrew Clark",
+        "interview_date": "2024-04-23"
+      }
+    },
+    {
+      "candidate_name": "Daniel Wilson",
+      "interview_question": "What are your salary expectations?",
+      "candidate_response": "I am seeking a competitive salary that reflects my skills and experience...",
+      "ai_generated_score": 75,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "Michelle Garcia",
+        "interview_date": "2024-04-24"
+      }
+    },
+    {
+      "candidate_name": "Ava Martinez",
+      "interview_question": "How do you handle feedback?",
+      "candidate_response": "I value constructive feedback and see it as an opportunity for growth. I actively seek feedback...",
+      "ai_generated_score": 86,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "William Rodriguez",
+        "interview_date": "2024-04-25"
+      }
+    },
+    {
+      "candidate_name": "Logan Perez",
+      "interview_question": "What do you know about our company?",
+      "candidate_response": "I have researched your company extensively and am impressed by your commitment to innovation...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "Sophia Hernandez",
+        "interview_date": "2024-04-26"
+      }
+    },
+    {
+      "candidate_name": "Mia Turner",
+      "interview_question": "Tell us about a time when you had to overcome a significant challenge.",
+      "candidate_response": "One significant challenge I faced was when our project encountered unexpected technical difficulties...",
+      "ai_generated_score": 84,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "Ethan Flores",
+        "interview_date": "2024-04-27"
+      }
+    },
+    {
+      "candidate_name": "John Doe",
+      "interview_question": "What is your greatest strength?",
+      "candidate_response": "My greatest strength is my ability to adapt to new situations and learn quickly.",
+      "ai_generated_score": 85,
+      "other_metadata": {
+        "interview_round": 1,
+        "interviewer": "Jane Smith",
+        "interview_date": "2024-04-15"
+      }
+    },
+    {
+      "candidate_name": "Alice Johnson",
+      "interview_question": "Can you describe a challenging situation you faced at work?",
+      "candidate_response": "One challenging situation I faced was when our project deadline was moved up unexpectedly...",
+      "ai_generated_score": 72,
+      "other_metadata": {
+        "interview_round": 1,
+        "interviewer": "Mark Anderson",
+        "interview_date": "2024-04-16"
+      }
+    },
+    {
+      "candidate_name": "Emily Brown",
+      "interview_question": "Where do you see yourself in five years?",
+      "candidate_response": "In five years, I envision myself in a leadership role within the company, leveraging my skills...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 1,
+        "interviewer": "David Johnson",
+        "interview_date": "2024-04-17"
+      }
+    },
+    {
+      "candidate_name": "Michael Smith",
+      "interview_question": "What motivates you?",
+      "candidate_response": "I am motivated by challenging projects that allow me to apply my skills and contribute to meaningful...",
+      "ai_generated_score": 78,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Sarah Adams",
+        "interview_date": "2024-04-18"
+      }
+    },
+    {
+      "candidate_name": "Emma Wilson",
+      "interview_question": "Describe a time when you had to work under pressure.",
+      "candidate_response": "One instance where I had to work under pressure was during our company's annual audit...",
+      "ai_generated_score": 82,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Jason Carter",
+        "interview_date": "2024-04-19"
+      }
+    },
+    {
+      "candidate_name": "James Miller",
+      "interview_question": "How do you handle conflicts in the workplace?",
+      "candidate_response": "I believe in addressing conflicts directly and calmly, seeking to understand the other party's perspective...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Karen White",
+        "interview_date": "2024-04-20"
+      }
+    },
+    {
+      "candidate_name": "Olivia Davis",
+      "interview_question": "What is your approach to problem-solving?",
+      "candidate_response": "My approach to problem-solving involves breaking down the problem into smaller parts, analyzing each...",
+      "ai_generated_score": 95,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Brian Green",
+        "interview_date": "2024-04-21"
+      }
+    },
+    {
+      "candidate_name": "William Brown",
+      "interview_question": "Why do you want to work for our company?",
+      "candidate_response": "I am impressed by your company's innovative approach and commitment to excellence. I believe my skills...",
+      "ai_generated_score": 80,
+      "other_metadata": {
+        "interview_round": 2,
+        "interviewer": "Jessica Lee",
+        "interview_date": "2024-04-22"
+      }
+    },
+    {
+      "candidate_name": "Sophia Taylor",
+      "interview_question": "Describe a project you worked on that you are particularly proud of.",
+      "candidate_response": "One project I'm particularly proud of is when I led a team to develop a mobile application...",
+      "ai_generated_score": 92,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "Andrew Clark",
+        "interview_date": "2024-04-23"
+      }
+    },
+    {
+      "candidate_name": "Daniel Wilson",
+      "interview_question": "What are your salary expectations?",
+      "candidate_response": "I am seeking a competitive salary that reflects my skills and experience...",
+      "ai_generated_score": 75,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "Michelle Garcia",
+        "interview_date": "2024-04-24"
+      }
+    },
+    {
+      "candidate_name": "Ava Martinez",
+      "interview_question": "How do you handle feedback?",
+      "candidate_response": "I value constructive feedback and see it as an opportunity for growth. I actively seek feedback...",
+      "ai_generated_score": 86,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "William Rodriguez",
+        "interview_date": "2024-04-25"
+      }
+    },
+    {
+      "candidate_name": "Logan Perez",
+      "interview_question": "What do you know about our company?",
+      "candidate_response": "I have researched your company extensively and am impressed by your commitment to innovation...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "Sophia Hernandez",
+        "interview_date": "2024-04-26"
+      }
+    },
+    {
+      "candidate_name": "Mia Turner",
+      "interview_question": "Tell us about a time when you had to overcome a significant challenge.",
+      "candidate_response": "One significant challenge I faced was when our project encountered unexpected technical difficulties...",
+      "ai_generated_score": 84,
+      "other_metadata": {
+        "interview_round": 3,
+        "interviewer": "Ethan Flores",
+        "interview_date": "2024-04-27"
+      }
+    },
+    {
+      "candidate_name": "Sophie Clark",
+      "interview_question": "What is your approach to teamwork?",
+      "candidate_response": "I believe in open communication and collaboration within a team. I enjoy brainstorming...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 4,
+        "interviewer": "Jacob Scott",
+        "interview_date": "2024-04-28"
+      }
+    },
+    {
+      "candidate_name": "Ethan Harris",
+      "interview_question": "Describe a situation where you had to meet a tight deadline.",
+      "candidate_response": "One instance where I had to meet a tight deadline was when our project launch date was moved up unexpectedly...",
+      "ai_generated_score": 79,
+      "other_metadata": {
+        "interview_round": 4,
+        "interviewer": "Amelia Carter",
+        "interview_date": "2024-04-29"
+      }
+    },
+    {
+      "candidate_name": "Isabella Evans",
+      "interview_question": "How do you stay updated on industry trends?",
+      "candidate_response": "I regularly attend industry conferences and workshops, read relevant publications, and participate in online forums...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 4,
+        "interviewer": "Elijah Nelson",
+        "interview_date": "2024-04-30"
+      }
+    },
+    {
+      "candidate_name": "Jackson Rivera",
+      "interview_question": "What do you consider your biggest professional achievement?",
+      "candidate_response": "My biggest professional achievement was when I led a team to successfully launch a new product...",
+      "ai_generated_score": 93,
+      "other_metadata": {
+        "interview_round": 4,
+        "interviewer": "Ava Peterson",
+        "interview_date": "2024-05-01"
+      }
+    },
+    {
+      "candidate_name": "Charlotte Coleman",
+      "interview_question": "How do you prioritize tasks and manage your time effectively?",
+      "candidate_response": "I prioritize tasks based on their urgency and importance, and I use time management techniques such as...",
+      "ai_generated_score": 85,
+      "other_metadata": {
+        "interview_round": 5,
+        "interviewer": "Noah Flores",
+        "interview_date": "2024-05-02"
+      }
+    },
+    {
+      "candidate_name": "Henry Stewart",
+      "interview_question": "What is your experience with project management tools?",
+      "candidate_response": "I have experience using project management tools such as Trello, Asana, and Jira to organize tasks, track progress...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 5,
+        "interviewer": "Lily Watson",
+        "interview_date": "2024-05-03"
+      }
+    },
+    {
+      "candidate_name": "Grace Price",
+      "interview_question": "How do you handle high-pressure situations?",
+      "candidate_response": "I remain calm under pressure and focus on finding solutions to the problem at hand. I also seek support...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 5,
+        "interviewer": "Lucas Richardson",
+        "interview_date": "2024-05-04"
+      }
+    },
+    {
+      "candidate_name": "Samuel Murphy",
+      "interview_question": "What are your long-term career goals?",
+      "candidate_response": "My long-term career goal is to become a senior leader in my field, leading innovative projects and mentoring...",
+      "ai_generated_score": 86,
+      "other_metadata": {
+        "interview_round": 5,
+        "interviewer": "Chloe Lee",
+        "interview_date": "2024-05-05"
+      }
+    },
+    {
+      "candidate_name": "Harper Russell",
+      "interview_question": "Describe a situation where you had to adapt to change.",
+      "candidate_response": "One situation where I had to adapt to change was when our company underwent a major reorganization...",
+      "ai_generated_score": 82,
+      "other_metadata": {
+        "interview_round": 6,
+        "interviewer": "Ethan Thompson",
+        "interview_date": "2024-05-06"
+      }
+    },
+    {
+      "candidate_name": "Liam Griffin",
+      "interview_question": "How do you handle feedback from colleagues?",
+      "candidate_response": "I value feedback from colleagues and see it as an opportunity for growth. I actively seek feedback...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 6,
+        "interviewer": "Avery Green",
+        "interview_date": "2024-05-07"
+      }
+    },
+    {
+      "candidate_name": "Evelyn Brooks",
+      "interview_question": "What are your strengths and weaknesses?",
+      "candidate_response": "One of my strengths is my attention to detail, while one of my weaknesses is that I can be overly critical of my work...",
+      "ai_generated_score": 84,
+      "other_metadata": {
+        "interview_round": 6,
+        "interviewer": "Mia Martinez",
+        "interview_date": "2024-05-08"
+      }
+    },
+    {
+      "candidate_name": "Benjamin Ward",
+      "interview_question": "How do you prioritize tasks when faced with multiple deadlines?",
+      "candidate_response": "I prioritize tasks based on deadlines, importance, and impact on overall project goals. I also communicate...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 6,
+        "interviewer": "Logan Turner",
+        "interview_date": "2024-05-09"
+      }
+    },
+    {
+      "candidate_name": "Madison Hughes",
+      "interview_question": "What inspired you to pursue a career in AI?",
+      "candidate_response": "I've always been fascinated by the potential of artificial intelligence to solve complex problems and improve...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 7,
+        "interviewer": "Natalie Baker",
+        "interview_date": "2024-05-10"
+      }
+    },
+    {
+      "candidate_name": "Nathan Wright",
+      "interview_question": "How do you approach learning new technologies?",
+      "candidate_response": "I approach learning new technologies by first understanding the fundamentals and then diving into practical projects...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 7,
+        "interviewer": "Isaac King",
+        "interview_date": "2024-05-11"
+      }
+    },
+    {
+      "candidate_name": "Avery Cooper",
+      "interview_question": "Describe a time when you had to innovate to solve a problem.",
+      "candidate_response": "One time I had to innovate was when our team faced a budget cut and we needed to find creative solutions...",
+      "ai_generated_score": 85,
+      "other_metadata": {
+        "interview_round": 7,
+        "interviewer": "Mason Hall",
+        "interview_date": "2024-05-12"
+      }
+    },
+    {
+      "candidate_name": "Zoe Morgan",
+      "interview_question": "How do you handle competing priorities?",
+      "candidate_response": "I prioritize tasks based on urgency and impact, and I communicate with stakeholders to manage expectations...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 7,
+        "interviewer": "Sophie Adams",
+        "interview_date": "2024-05-13"
+      }
+    },
+    {
+      "candidate_name": "Carter Ramirez",
+      "interview_question": "What do you enjoy most about working in the AI field?",
+      "candidate_response": "I enjoy the constant innovation and the opportunity to work on projects that have a real-world impact...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 8,
+        "interviewer": "Elena Garcia",
+        "interview_date": "2024-05-14"
+      }
+    },
+    {
+      "candidate_name": "Skylar Rodriguez",
+      "interview_question": "Describe your experience with model deployment.",
+      "candidate_response": "I have experience deploying machine learning models using platforms such as AWS SageMaker and Google Cloud AI Platform...",
+      "ai_generated_score": 92,
+      "other_metadata": {
+        "interview_round": 8,
+        "interviewer": "Gabriel Martinez",
+        "interview_date": "2024-05-15"
+      }
+    },
+    {
+      "candidate_name": "Peyton Gray",
+      "interview_question": "How do you ensure the quality of your AI models?",
+      "candidate_response": "I ensure model quality through rigorous testing, validation against real-world data, and continuous monitoring...",
+      "ai_generated_score": 86,
+      "other_metadata": {
+        "interview_round": 8,
+        "interviewer": "Victoria Clark",
+        "interview_date": "2024-05-16"
+      }
+    },
+    {
+      "candidate_name": "Hayden Martinez",
+      "interview_question": "What do you see as the biggest challenge in AI development?",
+      "candidate_response": "One of the biggest challenges in AI development is ensuring ethical and responsible use of AI technologies...",
+      "ai_generated_score": 84,
+      "other_metadata": {
+        "interview_round": 8,
+        "interviewer": "Jackson Wright",
+        "interview_date": "2024-05-17"
+      }
+    },
+    {
+      "candidate_name": "Brooklyn Powell",
+      "interview_question": "How do you stay updated on the latest advancements in AI?",
+      "candidate_response": "I stay updated through academic research papers, online courses, attending conferences, and participating in...",
+      "ai_generated_score": 93,
+      "other_metadata": {
+        "interview_round": 9,
+        "interviewer": "Samantha Perez",
+        "interview_date": "2024-05-18"
+      }
+    },
+    {
+      "candidate_name": "Easton Carter",
+      "interview_question": "What do you think will be the next big breakthrough in AI?",
+      "candidate_response": "I believe the next big breakthrough will be in the area of unsupervised learning and self-learning AI systems...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 9,
+        "interviewer": "Aria Hernandez",
+        "interview_date": "2024-05-19"
+      }
+    },
+    {
+      "candidate_name": "Taylor Stewart",
+      "interview_question": "How do you handle ambiguity and uncertainty in AI projects?",
+      "candidate_response": "I embrace ambiguity as an opportunity for exploration and experimentation. I break down complex problems...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 9,
+        "interviewer": "Eli Adams",
+        "interview_date": "2024-05-20"
+      }
+    },
+    {
+      "candidate_name": "Blake Griffin",
+      "interview_question": "Describe a project where you applied AI to solve a real-world problem.",
+      "candidate_response": "One project where I applied AI was in developing a recommendation system for an e-commerce platform...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 9,
+        "interviewer": "Nova Cooper",
+        "interview_date": "2024-05-21"
+      }
+    },
+    {
+      "candidate_name": "Mason Brooks",
+      "interview_question": "How do you approach debugging complex AI algorithms?",
+      "candidate_response": "I approach debugging by breaking down the problem into smaller components, conducting thorough...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 10,
+        "interviewer": "Olivia Parker",
+        "interview_date": "2024-05-22"
+      }
+    },
+    {
+      "candidate_name": "Scarlett Cooper",
+      "interview_question": "Describe a project where you used AI for natural language processing.",
+      "candidate_response": "One project where I used AI for NLP was in developing a chatbot for customer support...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 10,
+        "interviewer": "Leo Bennett",
+        "interview_date": "2024-05-23"
+      }
+    },
+    {
+      "candidate_name": "Hudson Ward",
+      "interview_question": "How do you ensure the privacy and security of AI systems?",
+      "candidate_response": "I ensure privacy and security by implementing encryption, access controls, and regular security audits...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 10,
+        "interviewer": "Ella Wright",
+        "interview_date": "2024-05-24"
+      }
+    },
+    {
+      "candidate_name": "Paisley Griffin",
+      "interview_question": "What do you think are the ethical implications of AI?",
+      "candidate_response": "The ethical implications of AI include issues of bias, privacy, job displacement, and the potential for misuse...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 11,
+        "interviewer": "Bentley Martinez",
+        "interview_date": "2024-05-25"
+      }
+    },
+    {
+      "candidate_name": "Emery Sanchez",
+      "interview_question": "How do you handle disagreements within a team?",
+      "candidate_response": "I handle disagreements by listening to all perspectives, finding common ground, and facilitating constructive...",
+      "ai_generated_score": 85,
+      "other_metadata": {
+        "interview_round": 11,
+        "interviewer": "Aurora Taylor",
+        "interview_date": "2024-05-26"
+      }
+    },
+    {
+      "candidate_name": "Brody Ramirez",
+      "interview_question": "What motivates you to excel in your work?",
+      "candidate_response": "I am motivated by the opportunity to make a positive impact, solve challenging problems, and continuously learn...",
+      "ai_generated_score": 92,
+      "other_metadata": {
+        "interview_round": 11,
+        "interviewer": "Nova Carter",
+        "interview_date": "2024-05-27"
+      }
+    },
+    {
+      "candidate_name": "Ivy Peterson",
+      "interview_question": "How do you handle tight deadlines?",
+      "candidate_response": "I handle tight deadlines by prioritizing tasks, breaking them down into manageable steps, and staying focused...",
+      "ai_generated_score": 86,
+      "other_metadata": {
+        "interview_round": 11,
+        "interviewer": "Ryder Thompson",
+        "interview_date": "2024-05-28"
+      }
+    },
+    {
+      "candidate_name": "Grayson Morris",
+      "interview_question": "What role do you see AI playing in the future of healthcare?",
+      "candidate_response": "I see AI playing a critical role in healthcare, from diagnosis and treatment optimization to personalized medicine...",
+      "ai_generated_score": 93,
+      "other_metadata": {
+        "interview_round": 12,
+        "interviewer": "Isla Adams",
+        "interview_date": "2024-05-29"
+      }
+    },
+    {
+      "candidate_name": "Piper Foster",
+      "interview_question": "How do you approach explaining complex AI concepts to non-technical stakeholders?",
+      "candidate_response": "I approach explaining complex concepts by using simple language, analogies, and visual aids to make it accessible...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 12,
+        "interviewer": "Silas Perez",
+        "interview_date": "2024-05-30"
+      }
+    },
+    {
+      "candidate_name": "Kai Turner",
+      "interview_question": "What do you think are the biggest misconceptions about AI?",
+      "candidate_response": "One misconception is that AI will replace human jobs entirely, whereas it's more about augmenting human capabilities...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 12,
+        "interviewer": "Emerson Green",
+        "interview_date": "2024-05-31"
+      }
+    },
+    {
+      "candidate_name": "River Watson",
+      "interview_question": "How do you ensure fairness and transparency in AI algorithms?",
+      "candidate_response": "I ensure fairness and transparency by examining training data for biases, using diverse datasets, and documenting...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 12,
+        "interviewer": "Harper Bell",
+        "interview_date": "2024-06-01"
+      }
+    },
+    {
+      "candidate_name": "Sydney Brooks",
+      "interview_question": "Describe a time when you had to pivot your AI approach to achieve better results.",
+      "candidate_response": "One time I had to pivot was when our initial AI model was underperforming, so we explored different architectures and...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 13,
+        "interviewer": "Cameron Martin",
+        "interview_date": "2024-06-02"
+      }
+    },
+    {
+      "candidate_name": "Elliott Ward",
+      "interview_question": "What is your experience with cloud-based AI services?",
+      "candidate_response": "I have experience using cloud-based AI services such as AWS AI, Google Cloud AI, and Microsoft Azure AI for...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 13,
+        "interviewer": "Hadley Hill",
+        "interview_date": "2024-06-03"
+      }
+    },
+    {
+      "candidate_name": "Kennedy Perez",
+      "interview_question": "How do you approach model selection for AI projects?",
+      "candidate_response": "I approach model selection by considering factors such as dataset size, complexity, interpretability, and performance...",
+      "ai_generated_score": 92,
+      "other_metadata": {
+        "interview_round": 13,
+        "interviewer": "Quinn Murphy",
+        "interview_date": "2024-06-04"
+      }
+    },
+    {
+      "candidate_name": "Rowan Rivera",
+      "interview_question": "What do you think are the key considerations for deploying AI models in production?",
+      "candidate_response": "Key considerations include model scalability, performance monitoring, version control, data privacy, and...",
+      "ai_generated_score": 86,
+      "other_metadata": {
+        "interview_round": 13,
+        "interviewer": "Finley Cook",
+        "interview_date": "2024-06-05"
+      }
+    },
+    {
+      "candidate_name": "Micah Price",
+      "interview_question": "How do you handle unexpected errors or failures in AI systems?",
+      "candidate_response": "I handle errors by implementing robust error handling mechanisms, logging, and thorough testing...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 14,
+        "interviewer": "Avery Rivera",
+        "interview_date": "2024-06-06"
+      }
+    },
+    {
+      "candidate_name": "Avery Peterson",
+      "interview_question": "What do you see as the biggest challenge in AI ethics?",
+      "candidate_response": "One challenge is balancing innovation with ethical considerations, ensuring AI is used responsibly and...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 14,
+        "interviewer": "Jordan Gray",
+        "interview_date": "2024-06-07"
+      }
+    },
+    {
+      "candidate_name": "Emerson Bell",
+      "interview_question": "How do you approach continuous learning in the field of AI?",
+      "candidate_response": "I approach continuous learning by regularly reading research papers, taking online courses, attending workshops, and...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 14,
+        "interviewer": "Piper Wright",
+        "interview_date": "2024-06-08"
+      }
+    },
+    {
+      "candidate_name": "Harley Morris",
+      "interview_question": "Describe a time when you had to explain a complex AI concept to a non-technical audience.",
+      "candidate_response": "One time I had to explain deep learning to a non-technical audience by using analogies such as...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 14,
+        "interviewer": "Tatum Hill",
+        "interview_date": "2024-06-09"
+      }
+    },
+    {
+      "candidate_name": "Dakota Evans",
+      "interview_question": "How do you handle model drift in AI projects?",
+      "candidate_response": "I handle model drift by monitoring model performance over time, retraining models periodically, and implementing...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 15,
+        "interviewer": "Riley Rodriguez",
+        "interview_date": "2024-06-10"
+      }
+    },
+    {
+      "candidate_name": "Sawyer Griffin",
+      "interview_question": "What do you consider when selecting features for AI models?",
+      "candidate_response": "I consider factors such as relevance to the problem, predictive power, data availability, and potential collinearity...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 15,
+        "interviewer": "Hayden Morris",
+        "interview_date": "2024-06-11"
+      }
+    },
+    {
+      "candidate_name": "Parker Bell",
+      "interview_question": "How do you evaluate the performance of AI models?",
+      "candidate_response": "I evaluate performance using metrics such as accuracy, precision, recall, F1 score, ROC AUC, and confusion matrices...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 15,
+        "interviewer": "Kendall Brooks",
+        "interview_date": "2024-06-12"
+      }
+    },
+    {
+      "candidate_name": "Reese Peterson",
+      "interview_question": "Describe your experience with reinforcement learning.",
+      "candidate_response": "I have experience with reinforcement learning in developing game-playing agents, robotics, and autonomous systems...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 16,
+        "interviewer": "Emery Ward",
+        "interview_date": "2024-06-13"
+      }
+    },
+    {
+      "candidate_name": "Finley Cooper",
+      "interview_question": "How do you address bias in AI algorithms?",
+      "candidate_response": "I address bias by examining training data for biases, augmenting data, using fair algorithms, and conducting bias audits...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 16,
+        "interviewer": "Skyler Ramirez",
+        "interview_date": "2024-06-14"
+      }
+    },
+    {
+      "candidate_name": "Quinn Brooks",
+      "interview_question": "What are your thoughts on explainable AI?",
+      "candidate_response": "Explainable AI is essential for building trust and understanding in AI systems, particularly in critical applications...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 16,
+        "interviewer": "Phoenix Rivera",
+        "interview_date": "2024-06-15"
+      }
+    },
+    {
+      "candidate_name": "Elliot Ward",
+      "interview_question": "How do you ensure model interpretability in AI projects?",
+      "candidate_response": "I ensure model interpretability by using simple and transparent models, feature importance techniques, and model explanations...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 16,
+        "interviewer": "Indiana Martinez",
+        "interview_date": "2024-06-16"
+      }
+    },
+    {
+      "candidate_name": "Remy Watson",
+      "interview_question": "Describe a time when you had to refactor AI code for better performance.",
+      "candidate_response": "One time I had to refactor code was when our model was slow, so I optimized algorithms, reduced redundant computations, and...",
+      "ai_generated_score": 86,
+      "other_metadata": {
+        "interview_round": 17,
+        "interviewer": "Remington Wright",
+        "interview_date": "2024-06-17"
+      }
+    },
+    {
+      "candidate_name": "Marley Perez",
+      "interview_question": "What role does hyperparameter tuning play in AI model development?",
+      "candidate_response": "Hyperparameter tuning optimizes model performance by adjusting parameters like learning rate, batch size, and regularization...",
+      "ai_generated_score": 92,
+      "other_metadata": {
+        "interview_round": 17,
+        "interviewer": "Rowan Carter",
+        "interview_date": "2024-06-18"
+      }
+    },
+    {
+      "candidate_name": "Casey Morris",
+      "interview_question": "How do you ensure AI models are scalable?",
+      "candidate_response": "I ensure scalability by designing modular architectures, optimizing code for performance, and leveraging distributed computing...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 17,
+        "interviewer": "Cameron Bell",
+        "interview_date": "2024-06-19"
+      }
+    },
+    {
+      "candidate_name": "Hayden Cooper",
+      "interview_question": "What are your thoughts on AI explainability?",
+      "candidate_response": "AI explainability is crucial for understanding model decisions, building trust, and detecting biases or errors...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 17,
+        "interviewer": "Peyton Peterson",
+        "interview_date": "2024-06-20"
+      }
+    },
+    {
+      "candidate_name": "Jordan Bell",
+      "interview_question": "Describe a project where you applied AI for image recognition.",
+      "candidate_response": "One project where I applied AI for image recognition was in developing a system to classify medical images for...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 18,
+        "interviewer": "Skylar Ward",
+        "interview_date": "2024-06-21"
+      }
+    },
+    {
+      "candidate_name": "Avery Griffin",
+      "interview_question": "How do you handle imbalanced datasets in AI projects?",
+      "candidate_response": "I handle imbalanced datasets by using techniques such as oversampling, undersampling, SMOTE, or ensemble methods...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 18,
+        "interviewer": "Reagan Morris",
+        "interview_date": "2024-06-22"
+      }
+    },
+    {
+      "candidate_name": "Spencer Ward",
+      "interview_question": "What are the challenges of deploying AI models in real-world scenarios?",
+      "candidate_response": "Challenges include data quality issues, model interpretability, regulatory compliance, ethical considerations, and scalability...",
+      "ai_generated_score": 92,
+      "other_metadata": {
+        "interview_round": 18,
+        "interviewer": "Carter Perez",
+        "interview_date": "2024-06-23"
+      }
+    },
+    {
+      "candidate_name": "Emerson Brooks",
+      "interview_question": "How do you approach feature engineering for AI projects?",
+      "candidate_response": "I approach feature engineering by selecting relevant features, transforming data, handling missing values, and creating new features...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 18,
+        "interviewer": "Parker Cooper",
+        "interview_date": "2024-06-24"
+      }
+    },
+    {
+      "candidate_name": "Riley Watson",
+      "interview_question": "Describe a time when you used AI to optimize business processes.",
+      "candidate_response": "One time I used AI to optimize business processes was in developing a recommendation system for personalized marketing...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 19,
+        "interviewer": "Taylor Griffin",
+        "interview_date": "2024-06-25"
+      }
+    },
+    {
+      "candidate_name": "Logan Perez",
+      "interview_question": "What are the ethical considerations when using AI in criminal justice?",
+      "candidate_response": "Ethical considerations include bias in algorithms, transparency, accountability, fairness, and potential for perpetuating injustices...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 19,
+        "interviewer": "Peyton Ward",
+        "interview_date": "2024-06-26"
+      }
+    },
+    {
+      "candidate_name": "Cameron Brooks",
+      "interview_question": "How do you approach model selection for classification tasks?",
+      "candidate_response": "I approach model selection by considering factors such as data size, class distribution, interpretability, and performance metrics...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 19,
+        "interviewer": "Avery Cooper",
+        "interview_date": "2024-06-27"
+      }
+    },
+    {
+      "candidate_name": "Peyton Griffin",
+      "interview_question": "What do you think are the limitations of current AI technologies?",
+      "candidate_response": "Limitations include lack of generalization, interpretability, data biases, security concerns, and the inability to understand context...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 19,
+        "interviewer": "Spencer Ward",
+        "interview_date": "2024-06-28"
+      }
+    },
+    {
+      "candidate_name": "Rowan Ward",
+      "interview_question": "How do you approach tuning hyperparameters for AI models?",
+      "candidate_response": "I approach tuning hyperparameters by using techniques such as grid search, random search, Bayesian optimization, and cross-validation...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 20,
+        "interviewer": "Emerson Brooks",
+        "interview_date": "2024-06-29"
+      }
+    },
+    {
+      "candidate_name": "Skyler Perez",
+      "interview_question": "What are the challenges of deploying AI models in edge computing environments?",
+      "candidate_response": "Challenges include limited computational resources, energy efficiency, latency, security, and communication bandwidth...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 20,
+        "interviewer": "Logan Griffin",
+        "interview_date": "2024-06-30"
+      }
+    },
+    {
+      "candidate_name": "Reagan Cooper",
+      "interview_question": "Describe a time when you had to troubleshoot AI model performance issues.",
+      "candidate_response": "One time I had to troubleshoot was when our model was overfitting, so I adjusted regularization parameters and improved data...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 20,
+        "interviewer": "Quinn Watson",
+        "interview_date": "2024-07-01"
+      }
+    },
+    {
+      "candidate_name": "Aiden Rivera",
+      "interview_question": "How do you handle missing data in AI projects?",
+      "candidate_response": "I handle missing data by imputing with mean/median values, using predictive models, or considering domain knowledge to fill in missing values...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 21,
+        "interviewer": "Elliott Ward",
+        "interview_date": "2024-07-02"
+      }
+    },
+    {
+      "candidate_name": "Blake Watson",
+      "interview_question": "Describe your experience with AI-based recommendation systems.",
+      "candidate_response": "I have experience in developing recommendation systems using collaborative filtering, content-based filtering, and hybrid approaches...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 21,
+        "interviewer": "Rowan Perez",
+        "interview_date": "2024-07-03"
+      }
+    },
+    {
+      "candidate_name": "Charlie Cooper",
+      "interview_question": "What do you think are the implications of AI in healthcare?",
+      "candidate_response": "Implications include improved diagnostics, personalized treatments, predictive analytics, remote patient monitoring, and ethical concerns...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 21,
+        "interviewer": "Skyler Griffin",
+        "interview_date": "2024-07-04"
+      }
+    },
+    {
+      "candidate_name": "Dylan Brooks",
+      "interview_question": "How do you approach model selection for regression tasks?",
+      "candidate_response": "I approach model selection by considering factors such as linearity, multicollinearity, heteroscedasticity, and model interpretability...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 21,
+        "interviewer": "Logan Ward",
+        "interview_date": "2024-07-05"
+      }
+    },
+    {
+      "candidate_name": "Eli Perez",
+      "interview_question": "Describe a project where you used AI for natural language processing.",
+      "candidate_response": "One project where I used AI for NLP was in developing a chatbot for customer service, utilizing techniques like tokenization, POS tagging, and sentiment analysis...",
+      "ai_generated_score": 92,
+      "other_metadata": {
+        "interview_round": 22,
+        "interviewer": "Quinn Cooper",
+        "interview_date": "2024-07-06"
+      }
+    },
+    {
+      "candidate_name": "Finn Griffin",
+      "interview_question": "What are your thoughts on AI ethics in autonomous vehicles?",
+      "candidate_response": "AI ethics in autonomous vehicles involve safety, liability, decision-making, transparency, and the balance between human intervention and automation...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 22,
+        "interviewer": "Parker Watson",
+        "interview_date": "2024-07-07"
+      }
+    },
+    {
+      "candidate_name": "Gavin Ward",
+      "interview_question": "How do you address overfitting in AI models?",
+      "candidate_response": "I address overfitting by using techniques such as regularization, dropout, cross-validation, early stopping, and increasing training data...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 22,
+        "interviewer": "Reese Perez",
+        "interview_date": "2024-07-08"
+      }
+    },
+    {
+      "candidate_name": "Hayden Perez",
+      "interview_question": "What role does transfer learning play in AI?",
+      "candidate_response": "Transfer learning enables leveraging knowledge from pre-trained models to solve new tasks, improving training efficiency, and requiring less labeled data...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 22,
+        "interviewer": "Sawyer Griffin",
+        "interview_date": "2024-07-09"
+      }
+    },
+    {
+      "candidate_name": "Ian Watson",
+      "interview_question": "How do you validate AI models?",
+      "candidate_response": "I validate AI models using techniques such as cross-validation, holdout validation, bootstrapping, and metrics like accuracy, precision, recall, and F1 score...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 23,
+        "interviewer": "Tanner Cooper",
+        "interview_date": "2024-07-10"
+      }
+    },
+    {
+      "candidate_name": "Jaden Griffin",
+      "interview_question": "What are the challenges of deploying AI models in edge devices?",
+      "candidate_response": "Challenges include limited computational resources, energy efficiency, latency, security, and maintaining model accuracy...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 23,
+        "interviewer": "Ulysses Ward",
+        "interview_date": "2024-07-11"
+      }
+    },
+    {
+      "candidate_name": "Kai Perez",
+      "interview_question": "How do you ensure model interpretability in AI projects?",
+      "candidate_response": "I ensure model interpretability by using simpler models, feature importance techniques, model explanations, and visualizations like SHAP values or LIME...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 23,
+        "interviewer": "Vivian Griffin",
+        "interview_date": "2024-07-12"
+      }
+    },
+    {
+      "candidate_name": "Logan Brooks",
+      "interview_question": "What are your thoughts on AI safety and risk management?",
+      "candidate_response": "AI safety involves ensuring systems behave predictably, are robust to errors, have fail-safes, and consider potential risks and consequences...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 23,
+        "interviewer": "Wyatt Perez",
+        "interview_date": "2024-07-13"
+      }
+    },
+    {
+      "candidate_name": "Mason Ward",
+      "interview_question": "Describe a time when you had to optimize AI code for performance.",
+      "candidate_response": "One time I optimized AI code was when our model inference time was slow, so I optimized algorithms, used GPU acceleration, and...",
+      "ai_generated_score": 86,
+      "other_metadata": {
+        "interview_round": 24,
+        "interviewer": "Xavier Brooks",
+        "interview_date": "2024-07-14"
+      }
+    },
+    {
+      "candidate_name": "Noah Perez",
+      "interview_question": "What are the limitations of AI in natural language understanding?",
+      "candidate_response": "Limitations include understanding context, ambiguity, sarcasm, cultural nuances, and the need for large and diverse training data...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 24,
+        "interviewer": "Yale Ward",
+        "interview_date": "2024-07-15"
+      }
+    },
+    {
+      "candidate_name": "Owen Griffin",
+      "interview_question": "How do you deal with class imbalance in AI classification tasks?",
+      "candidate_response": "I deal with class imbalance using techniques such as resampling, adjusting class weights, using different evaluation metrics, or generating synthetic samples...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 24,
+        "interviewer": "Zane Perez",
+        "interview_date": "2024-07-16"
+      }
+    },
+    {
+      "candidate_name": "Parker Ward",
+      "interview_question": "What are the implications of AI in education?",
+      "candidate_response": "Implications include personalized learning, adaptive tutoring, automated grading, learning analytics, and addressing educational disparities...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 24,
+        "interviewer": "Adrian Brooks",
+        "interview_date": "2024-07-17"
+      }
+    },
+    {
+      "candidate_name": "Quinn Watson",
+      "interview_question": "How do you approach data preprocessing for AI projects?",
+      "candidate_response": "I approach data preprocessing by cleaning, scaling, encoding categorical variables, handling missing values, and splitting data into train/test sets...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 25,
+        "interviewer": "Beckett Griffin",
+        "interview_date": "2024-07-18"
+      }
+    },
+    {
+      "candidate_name": "Ryder Perez",
+      "interview_question": "What are the key challenges of AI adoption in businesses?",
+      "candidate_response": "Challenges include data quality, talent shortage, integration with existing systems, regulatory compliance, and cultural resistance...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 25,
+        "interviewer": "Cameron Ward",
+        "interview_date": "2024-07-19"
+      }
+    },
+    {
+      "candidate_name": "Sawyer Brooks",
+      "interview_question": "Describe a project where you applied AI for anomaly detection.",
+      "candidate_response": "One project where I applied AI for anomaly detection was in monitoring network traffic for cybersecurity threats, using unsupervised learning techniques...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 25,
+        "interviewer": "Dylan Perez",
+        "interview_date": "2024-07-20"
+      }
+    },
+    {
+      "candidate_name": "Tyler Griffin",
+      "interview_question": "How do you ensure the fairness of AI algorithms?",
+      "candidate_response": "I ensure fairness by auditing data, evaluating models for bias, using fairness-aware algorithms, and considering diverse perspectives in model development...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 25,
+        "interviewer": "Eli Ward",
+        "interview_date": "2024-07-21"
+      }
+    },
+    {
+      "candidate_name": "Uriah Perez",
+      "interview_question": "What are the potential applications of AI in agriculture?",
+      "candidate_response": "Potential applications include crop monitoring, yield prediction, disease detection, precision agriculture, and autonomous farming equipment...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 26,
+        "interviewer": "Finn Brooks",
+        "interview_date": "2024-07-22"
+      }
+    },
+    {
+      "candidate_name": "Victor Ward",
+      "interview_question": "How do you address bias in AI datasets?",
+      "candidate_response": "I address bias by collecting diverse data, preprocessing data carefully, evaluating models for bias, and using debiasing techniques...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 26,
+        "interviewer": "Gavin Perez",
+        "interview_date": "2024-07-23"
+      }
+    },
+    {
+      "candidate_name": "Wyatt Griffin",
+      "interview_question": "What are the implications of AI in finance?",
+      "candidate_response": "Implications include algorithmic trading, fraud detection, risk assessment, customer service automation, and regulatory compliance...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 26,
+        "interviewer": "Hayden Ward",
+        "interview_date": "2024-07-24"
+      }
+    },
+    {
+      "candidate_name": "Xavier Perez",
+      "interview_question": "How do you evaluate the performance of AI models?",
+      "candidate_response": "I evaluate performance using metrics like accuracy, precision, recall, F1 score, ROC AUC, confusion matrix, and domain-specific metrics...",
+      "ai_generated_score": 91,
+      "other_metadata": {
+        "interview_round": 26,
+        "interviewer": "Ian Griffin",
+        "interview_date": "2024-07-25"
+      }
+    },
+    {
+      "candidate_name": "Yale Ward",
+      "interview_question": "What are the key considerations for AI in customer service?",
+      "candidate_response": "Key considerations include chatbots, sentiment analysis, personalized recommendations, self-service portals, and enhancing human-agent interactions...",
+      "ai_generated_score": 89,
+      "other_metadata": {
+        "interview_round": 27,
+        "interviewer": "Jaden Perez",
+        "interview_date": "2024-07-26"
+      }
+    },
+    {
+      "candidate_name": "Zane Griffin",
+      "interview_question": "Describe a project where you used AI for predictive maintenance.",
+      "candidate_response": "One project where I used AI for predictive maintenance was in predicting equipment failures in manufacturing using sensor data and predictive models...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 27,
+        "interviewer": "Kai Ward",
+        "interview_date": "2024-07-27"
+      }
+    },
+    {
+      "candidate_name": "Adrian Perez",
+      "interview_question": "What are the challenges of using AI in supply chain management?",
+      "candidate_response": "Challenges include data silos, demand forecasting accuracy, inventory optimization, transportation logistics, and supplier relationship management...",
+      "ai_generated_score": 87,
+      "other_metadata": {
+        "interview_round": 27,
+        "interviewer": "Liam Griffin",
+        "interview_date": "2024-07-28"
+      }
+    },
+    {
+      "candidate_name": "Beckett Ward",
+      "interview_question": "How do you handle imbalanced classes in AI classification?",
+      "candidate_response": "I handle imbalanced classes using techniques like oversampling, undersampling, synthetic data generation, or using class weights in the loss function...",
+      "ai_generated_score": 90,
+      "other_metadata": {
+        "interview_round": 27,
+        "interviewer": "Mason Perez",
+        "interview_date": "2024-07-29"
+      }
+    },
+    {
+      "candidate_name": "Cameron Griffin",
+      "interview_question": "What are the ethical implications of AI in social media?",
+      "candidate_response": "Ethical implications include privacy concerns, algorithmic bias, filter bubbles, misinformation, and the impact on mental health and societal norms...",
+      "ai_generated_score": 88,
+      "other_metadata": {
+        "interview_round": 28,
+        "interviewer": "Noah Ward",
+        "interview_date": "2024-07-30"
+      }
+    }
+  ]
